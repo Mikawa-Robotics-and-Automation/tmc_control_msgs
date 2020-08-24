@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>tmc_control_msgs</name>
-  <version>0.9.1</version>
+  <version>1.0.0</version>
   <description>The msgs for control some hardware.</description>
 
   <maintainer email="xr-hsr-support@mail.toyota.co.jp">HSR Support</maintainer>
